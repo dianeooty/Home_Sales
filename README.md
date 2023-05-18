@@ -26,11 +26,12 @@ From the home sales data, I created a Spark DataFrame and then to a temparary Da
 
 ![2](https://github.com/dianeooty/Home_Sales/assets/117790100/f4e2e241-4351-47ad-aec7-becc5d132be6)
 
-![3](https://github.com/dianeooty/Home_Sales/assets/117790100/1c5a7165-c726-4190-9d8f-f5a80aa86ff7)
+![1](https://github.com/dianeooty/Home_Sales/assets/117790100/5d45ec87-78c6-452c-93b0-49b583df1921)
 
-![4](https://github.com/dianeooty/Home_Sales/assets/117790100/b30900d5-87bd-414c-8d85-09e20f7c119d)
+![2](https://github.com/dianeooty/Home_Sales/assets/117790100/109af80e-ce65-4db6-8594-e81579761571)
 
-![5](https://github.com/dianeooty/Home_Sales/assets/117790100/a921079f-02ad-4000-9066-92066ae69bcb)
+![3](https://github.com/dianeooty/Home_Sales/assets/117790100/d2b814fe-bde3-4c6d-9297-dc92acdbcd80)
+
 
 
 ## Setup
